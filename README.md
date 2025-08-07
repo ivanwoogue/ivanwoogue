@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi, Ivan here 👋
+
+I am a professional software engineer from Philippines. I graduated with Magna Cum Laude as a BS Computer Science from University of San Carlos. My expertise is mainly on full stack development. At the side, I have worked with Shopify Liquid and Python script automation and GUI. I am always seeking to learn more throughout my career.
+
+- 🔭 I’m currently working on a personal project that is an expense tracker where it could forecast the estimated income and expenses of a person throughout the year which could help the person make smarter financial choices. I am hoping to deploy this as my first SaaS.
+- 🌱 I’m always trying to learn new things whether it is a framework, programming language, or system design. My goal is to master myself with top level concepts or knowledge in web development and implement them in different tech stacks to gain hands on experience.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/iwoogue)
+- 💼 Hire me: [Upwork](https://www.upwork.com/freelancers/~01adbf185ce6b384d2?s=1110580755107926016)
 
 <!--
 **ivanwoogue/ivanwoogue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
