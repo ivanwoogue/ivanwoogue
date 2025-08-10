@@ -8,6 +8,8 @@ I am a professional software engineer from Philippines. I graduated with Magna C
 - 💼 Hire me: [Upwork](https://www.upwork.com/freelancers/~01adbf185ce6b384d2?s=1110580755107926016)
 - 🎓 School Github: [Github profile](https://github.com/OG-Habit)
 
+> ⚠️ **_Note:_** If you are an employer or a client, there are some repositories that are private.
+
 <!--
 **ivanwoogue/ivanwoogue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
