@@ -6,7 +6,7 @@ I am a professional software engineer from Philippines. I graduated with Magna C
 - 🌱 I’m always trying to learn new things whether it is a framework, programming language, or system design. My goal is to master myself with top level concepts or knowledge in web development and implement them in different tech stacks to gain hands on experience.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/iwoogue)
 - 💼 Hire me: [Upwork](https://www.upwork.com/freelancers/~01adbf185ce6b384d2?s=1110580755107926016)
-- ⚡ School Github: [Github profile](https://github.com/OG-Habit)
+- 🎓 School Github: [Github profile](https://github.com/OG-Habit)
 
 <!--
 **ivanwoogue/ivanwoogue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
